@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
 <p>Lets get started</p>
-  );
+  )
 }
 
 export default App;
